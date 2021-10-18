@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<title>Header</title>
+	<defs>
+		<image  width="22" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAAXNSR0IB2cksfwAAAUpQTFRFu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7xGOFVQAAAG50Uk5TAAc8i8/q7dOWRgoptvj//r43O9/8+uxPKOK9cU1IarDwNQiu9HoNBmbnx0eDVvVZkrwMAaOxzG395AlFMfEi60Mr7x7QaVTeBZ2stFH3Z0Lz7kTaM6RdLypY+TlS5TjBPQ5as+jdtRLmOhrW8tIuSXvuAAABFElEQVR4nGWRZ1fCMBSG4yjW0RepitZZcYCjIo5KcYuKW3Ergnvg+P9fzU1awjm8H5Inz8nNZIynrr6hUQs16c0trCqtbQZEwu0RZc0OUp1d1Ea7A9tj8WFvX//A4BAHe1ja2AgwOjZOGE9MAJMC2RRfdzqodGaApKBZIDUX6PkFYFGQCyyp7ZNpeBkCD8ay0iuriK4RrMPYUHpzC1qWYBvYUXo3jdwewT5wEK9sqQOHgo6A45NAn54BjrxOCshLZOcXgJuRfBnid766vrm90+855Qp+5YNNj2Tnw/IZi6bvS4/w43q8sZ58//zyamlv7x/Op/lF88uVA8ey36IviPlVv+GnTP6nRrNSEfit1SzyZyf+Afs8JA++jYOlAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Header">
+		<use id="Search icon" href="#img1" x="0" y="0" />
+	</g>
+</svg>
